@@ -1,11 +1,25 @@
-# STATIC
+# mii
 
-**This directory is not required, you can delete it if you don't want to use it.**
+## Overview
+mii is a **Vue** project. This repository contains the source code, documentation, and any related assets for the project.
 
-This directory contains your static files.
-Each file inside this directory is mapped to `/`.
-Thus you'd want to delete this README.md before deploying to production.
+## Intent
+The intention behind this project is to provide a reference implementation, demonstrate miiâ€™s functionality, and serve as a learning or showcase resource.
 
-Example: `/static/robots.txt` is mapped as `/robots.txt`.
+## Complexity
+Medium
 
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/guide/assets#static).
+## How to Run
+`
+# Clone the repository
+
+git clone https://github.com/SughoshDixit/mii.git
+
+cd mii
+
+npm install
+
+npm run serve
+`
+
+*(If the project uses a different build tool, replace the commands above with the appropriate instructions.)*
